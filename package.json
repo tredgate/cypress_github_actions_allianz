@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tredgate/cypress_github_actions_allianz#readme",
   "dependencies": {
+    "@cypress/grep": "^4.0.1",
     "cypress": "^13.7.2"
   }
 }
