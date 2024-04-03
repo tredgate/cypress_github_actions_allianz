@@ -3,5 +3,6 @@ describe("Cypress GitHub actions demo", () => {
     cy.visit("https://tredgate.com/pmtool");
     cy.get("#username").type("admin");
     cy.get("#username").should("have.value", "admin");
+    //test
   });
 });
