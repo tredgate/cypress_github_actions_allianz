@@ -1,0 +1,23 @@
+{
+  "name": "cypress_github_actions_allianz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/cypress_github_actions_allianz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/cypress_github_actions_allianz/issues"
+  },
+  "homepage": "https://github.com/tredgate/cypress_github_actions_allianz#readme",
+  "dependencies": {
+    "cypress": "^13.7.2"
+  }
+}
